@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\division\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8BE998-6460-499D-8B12-24DC539D108A}|division\\division.csproj|C:\\Users\\lenovo\\source\\repos\\division\\division\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8BE998-6460-499D-8B12-24DC539D108A}|division\\division.csproj|solutionrelative:division\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8BE998-6460-499D-8B12-24DC539D108A}|division\\division.csproj|C:\\Users\\lenovo\\source\\repos\\division\\division\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8BE998-6460-499D-8B12-24DC539D108A}|division\\division.csproj|solutionrelative:division\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8BE998-6460-499D-8B12-24DC539D108A}|division\\division.csproj|C:\\Users\\lenovo\\source\\repos\\division\\division\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8BE998-6460-499D-8B12-24DC539D108A}|division\\division.csproj|solutionrelative:division\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8BE998-6460-499D-8B12-24DC539D108A}|division\\division.csproj|C:\\Users\\lenovo\\source\\repos\\division\\division\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD8BE998-6460-499D-8B12-24DC539D108A}|division\\division.csproj|solutionrelative:division\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8BE998-6460-499D-8B12-24DC539D108A}|division\\division.csproj|c:\\users\\lenovo\\source\\repos\\division\\division\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD8BE998-6460-499D-8B12-24DC539D108A}|division\\division.csproj|solutionrelative:division\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8BE998-6460-499D-8B12-24DC539D108A}|division\\division.csproj|C:\\Users\\lenovo\\source\\repos\\division\\division\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD8BE998-6460-499D-8B12-24DC539D108A}|division\\division.csproj|solutionrelative:division\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\division\\division\\Form3.cs",
+              "RelativeDocumentMoniker": "division\\Form3.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\division\\division\\Form3.cs",
+              "RelativeToolTip": "division\\Form3.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T10:01:14.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\division\\division\\Form3.cs",
+              "RelativeDocumentMoniker": "division\\Form3.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\division\\division\\Form3.cs [Design]",
+              "RelativeToolTip": "division\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:15:17.438Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\division\\division\\Form2.cs",
+              "RelativeDocumentMoniker": "division\\Form2.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\division\\division\\Form2.cs",
+              "RelativeToolTip": "division\\Form2.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:01:12.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\division\\division\\Form1.cs",
+              "RelativeDocumentMoniker": "division\\Form1.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\division\\division\\Form1.cs",
+              "RelativeToolTip": "division\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T10:52:47.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\division\\division\\Form2.cs",
+              "RelativeDocumentMoniker": "division\\Form2.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\division\\division\\Form2.cs [Design]",
+              "RelativeToolTip": "division\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:07:37.498Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\division\\division\\Form1.cs",
+              "RelativeDocumentMoniker": "division\\Form1.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\division\\division\\Form1.cs [Design]",
+              "RelativeToolTip": "division\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T17:53:37.852Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

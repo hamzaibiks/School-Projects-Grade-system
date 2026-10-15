@@ -1,0 +1,340 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|c:\\users\\lenovo\\source\\repos\\pfe grades app\\hihi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|solutionrelative:hihi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|c:\\users\\lenovo\\source\\repos\\pfe grades app\\hihi\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|solutionrelative:hihi\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|c:\\users\\lenovo\\source\\repos\\pfe grades app\\hihi\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|solutionrelative:hihi\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|solutionrelative:hihi\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|solutionrelative:hihi\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|solutionrelative:hihi\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|solutionrelative:hihi\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|solutionrelative:hihi\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|solutionrelative:hihi\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|solutionrelative:hihi\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|solutionrelative:hihi\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|solutionrelative:hihi\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|solutionrelative:hihi\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|solutionrelative:hihi\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|solutionrelative:hihi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|solutionrelative:hihi\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|solutionrelative:hihi\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|solutionrelative:hihi\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|solutionrelative:hihi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE0DB60-2292-41FC-90DE-CA72939B3C91}|hihi\\hihi.csproj|solutionrelative:hihi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\App.config",
+              "RelativeDocumentMoniker": "hihi\\App.config",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\App.config",
+              "RelativeToolTip": "hihi\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-10-15T20:30:40.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\.gitignore",
+              "RelativeDocumentMoniker": "hihi\\.gitignore",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\.gitignore",
+              "RelativeToolTip": "hihi\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-10-15T18:08:28.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form9.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\Form9.cs",
+              "RelativeDocumentMoniker": "hihi\\Form9.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\Form9.cs",
+              "RelativeToolTip": "hihi\\Form9.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T17:28:01.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form9.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\Form9.cs",
+              "RelativeDocumentMoniker": "hihi\\Form9.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\hihi\\hihi\\Form9.cs [Design]",
+              "RelativeToolTip": "..\\hihi\\hihi\\Form9.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T17:22:17.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "hihi\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\DatabaseHelper.cs",
+              "RelativeToolTip": "hihi\\DatabaseHelper.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T12:53:00.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\Program.cs",
+              "RelativeDocumentMoniker": "hihi\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\Program.cs",
+              "RelativeToolTip": "hihi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:58:25.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form8.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\Form8.cs",
+              "RelativeDocumentMoniker": "hihi\\Form8.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\Form8.cs",
+              "RelativeToolTip": "hihi\\Form8.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:46:25.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\Form4.cs",
+              "RelativeDocumentMoniker": "hihi\\Form4.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\Form4.cs",
+              "RelativeToolTip": "hihi\\Form4.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAQwKQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:33:43.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form7.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\Form7.cs",
+              "RelativeDocumentMoniker": "hihi\\Form7.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\Form7.cs",
+              "RelativeToolTip": "hihi\\Form7.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:32:49.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\Form5.cs",
+              "RelativeDocumentMoniker": "hihi\\Form5.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\Form5.cs",
+              "RelativeToolTip": "hihi\\Form5.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAIwDUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:22:34.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\Form3.cs",
+              "RelativeDocumentMoniker": "hihi\\Form3.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\Form3.cs",
+              "RelativeToolTip": "hihi\\Form3.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAADwv0kAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:17:28.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\Form2.cs",
+              "RelativeDocumentMoniker": "hihi\\Form2.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\Form2.cs",
+              "RelativeToolTip": "hihi\\Form2.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwCgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:14:57.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\Form1.cs",
+              "RelativeDocumentMoniker": "hihi\\Form1.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\Form1.cs",
+              "RelativeToolTip": "hihi\\Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvygAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:11:19.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\Form3.cs",
+              "RelativeDocumentMoniker": "hihi\\Form3.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\hihi\\hihi\\Form3.cs [Design]",
+              "RelativeToolTip": "..\\hihi\\hihi\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T10:36:02.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form8.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\Form8.cs",
+              "RelativeDocumentMoniker": "hihi\\Form8.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\hihi\\hihi\\Form8.cs [Design]",
+              "RelativeToolTip": "..\\hihi\\hihi\\Form8.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:30:37.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form7.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\Form7.cs",
+              "RelativeDocumentMoniker": "hihi\\Form7.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\hihi\\hihi\\Form7.cs [Design]",
+              "RelativeToolTip": "..\\hihi\\hihi\\Form7.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T10:33:58.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\Form5.cs",
+              "RelativeDocumentMoniker": "hihi\\Form5.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\hihi\\hihi\\Form5.cs [Design]",
+              "RelativeToolTip": "..\\hihi\\hihi\\Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T16:35:53.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\Form4.cs",
+              "RelativeDocumentMoniker": "hihi\\Form4.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\Form4.cs [Design]",
+              "RelativeToolTip": "hihi\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T10:48:10.866Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\Form2.cs",
+              "RelativeDocumentMoniker": "hihi\\Form2.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\hihi\\hihi\\Form2.cs [Design]",
+              "RelativeToolTip": "..\\hihi\\hihi\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T08:30:44.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\PFE Grades App\\hihi\\Form1.cs",
+              "RelativeDocumentMoniker": "hihi\\Form1.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\hihi\\hihi\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\hihi\\hihi\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T14:10:20.257Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\division\division\bin\Debug\division.exe.config
+C:\Users\lenovo\source\repos\division\division\bin\Debug\division.exe
+C:\Users\lenovo\source\repos\division\division\bin\Debug\division.pdb
+C:\Users\lenovo\source\repos\division\division\bin\Debug\Guna.UI2.dll
+C:\Users\lenovo\source\repos\division\division\obj\Debug\division.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\division\division\obj\Debug\division.Form1.resources
+C:\Users\lenovo\source\repos\division\division\obj\Debug\division.Properties.Resources.resources
+C:\Users\lenovo\source\repos\division\division\obj\Debug\division.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\division\division\obj\Debug\division.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\division\division\obj\Debug\division.csproj.Up2Date
+C:\Users\lenovo\source\repos\division\division\obj\Debug\division.exe
+C:\Users\lenovo\source\repos\division\division\obj\Debug\division.pdb
+C:\Users\lenovo\source\repos\division\division\obj\Debug\division.exe.config
+C:\Users\lenovo\source\repos\division\division\obj\Debug\division.Form2.resources
+C:\Users\lenovo\source\repos\division\division\obj\Debug\division.Form3.resources
